@@ -21,7 +21,7 @@ Aqui vamos explorar **CI/CD, GitHub Actions, Docker, Kubernetes** e muito mais! 
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Automatizar processos 🦾
 
@@ -35,7 +35,8 @@ Escalar aplicações sem dor 😎
 <p align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/> </p>
 📜 Autor
 
-👤 Vitor Oliveira
-📧 Email: vitor.dsoliveira1@gmail.com
+## 👤 Vitor Oliveira
 
-🌐 GitHub: @vitordsoliveira
+## 📧 Email: vitor.dsoliveira1@gmail.com
+
+## 🌐 GitHub: @vitordsoliveira
