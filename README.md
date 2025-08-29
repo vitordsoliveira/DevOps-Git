@@ -31,6 +31,8 @@ C --> D[🐳 Build Docker]
 D --> E[☸️ Deploy em Kubernetes]
 E --> F[🚀 Aplicação no ar!]
 
+---
+
 🎯 Objetivo
 
 Automatizar processos 🦾
