@@ -13,10 +13,15 @@ Aqui vamos explorar **CI/CD, GitHub Actions, Docker, Kubernetes** e muito mais! 
 ---
 
 ## 🛠️ Tecnologias
+- 🐳 Docker  
+- ☸️ Kubernetes  
 - ⚡ GitHub Actions  
 - 🐧 Linux  
+- ☁️ Cloud Providers (AWS / Azure / GCP)
 
-## 🔄 Fluxo DevOps
+---
+
+## 🔄 Fluxo DevOps (CI/CD)
 
 ```mermaid
 graph LR
@@ -44,5 +49,3 @@ Escalar aplicações sem dor 😎
 📧 Email: vitor.dsoliveira1@gmail.com
 
 🌐 GitHub: @vitordsoliveira
-
-<p align="center">✨ Keep Coding, Keep Automating ✨</p> ```
