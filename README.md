@@ -32,22 +32,3 @@ D --> E[☸️ Deploy em Kubernetes]
 E --> F[🚀 Aplicação no ar!]
 
 ---
-
-🎯 Objetivo
-
-Automatizar processos 🦾
-
-Reduzir erros humanos 🧑‍💻
-
-Garantir entregas contínuas 📦
-
-Escalar aplicações sem dor 😎
-
-🖼️ Inspiração DevOps
-<p align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/> </p>
-📜 Autor
-
-👤 Vitor Oliveira
-📧 Email: vitor.dsoliveira1@gmail.com
-
-🌐 GitHub: @vitordsoliveira
