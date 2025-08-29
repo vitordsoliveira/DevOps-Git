@@ -1,5 +1,3 @@
-# DevOps-Git
-
 <h1 align="center">🚀 Aula de DevOps 🚀</h1>
 
 <p align="center">
@@ -15,15 +13,10 @@ Aqui vamos explorar **CI/CD, GitHub Actions, Docker, Kubernetes** e muito mais! 
 ---
 
 ## 🛠️ Tecnologias
-- 🐳 Docker  
-- ☸️ Kubernetes  
 - ⚡ GitHub Actions  
 - 🐧 Linux  
-- ☁️ Cloud Providers (AWS / Azure / GCP)
 
----
-
-## 🔄 Fluxo DevOps (CI/CD)
+## 🔄 Fluxo DevOps
 
 ```mermaid
 graph LR
