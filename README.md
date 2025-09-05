@@ -32,7 +32,7 @@ Garantir entregas contínuas 📦
 Escalar aplicações sem dor 😎
 
 🖼️ Inspiração DevOps
-<p align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/> </p>
+<p style:align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/> </p>
 📜 Autor
 
 ## 👤 Vitor Oliveira
